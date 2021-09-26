@@ -1,41 +1,17 @@
-# Hindawi 2021.8
-Hindawi Programming System (Hindawi@Linux) 2020 version <br>
-(C) Copyright 2020 Abhishek Choudhary, Dr Srija Katta <br>
-Released under GNU GPL v2 <br>
-No Warranty, Zero Liability <br>
+# __<font color="orange">NB</font><font color="green">Runner</font>__™ by [<font color="red">*Aye</font><font color="green">AI*</font>](https://ayeai.xyz)<small>®</small>
+<small>(C) Copyright 2021 Abhishek Choudhary<br>
+AyeSPL license. No Warranty No Liability.</small>
 
-Note: Individual files may have independent license and copyright terms
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayerunner/nbrunner/blob/master/Notebooks/NBRunner.ipynb) 
+[![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ayerunner/nbrunner/master/?filepath=Notebooks/NBRunner.ipynb)
 
-## Project Hindawi is now part of Project VIKRAM https://projectvikram.github.io
 
-## Technical support from: AyeAI Consulting https://ayeai.xyz
+### **NBRunner** by *AyeAI* is a notebook utility that helps you generate buttons to launch notebooks stored in git repositories. There are additional options to generate QR code launchers and social share buttons.
 
-## Latest features
-1. Updated support for IPython Notebooks (Jupyter Notebooks)
-2. Docker based workflow (non-docker workflow also available)
-3. Enabled support for Google colab
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hindawiai/hindawi2020/blob/master/Notebooks/Hindawi2021.6.ipynb)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hindawiai/hindawi2020/master?filepath=Notebooks%2FHindawi2021.6.ipynb)
-
-[Share on WhatsApp](https://api.whatsapp.com/send?text=Mother%20tongue%20based%20programming%20for%20everyone%20https://github.com/hindawiai/hindawi2020/)
-
-## Quick start
-Execute the following commands on a docker capable system
-```
-wget https://raw.githubusercontent.com/hindawiai/hindawi2020/master/Notebooks/launch_hindawi -Olaunch_hindawi && bash launch_hindawi
-```
-You may use a physical on premise (local physical) system, or an off prem (public cloud) system. We recommend using Ubuntu based host systems.
-
-## Coming soon
-1. Google Colab support - Done
-2. Instructions for running Hindawi on major cloud providers
-3. Support for data science and artificial intelligence in mother tongue
-4. Support for global non-English languages
-5. Seamless workflow from English to non-English programming languages and reverse
-6. Support for IoT and Robotics
-7. Hyperscale and Exascale computing support
-8. Scientific computing support
-9. Support for quantum computing
-10. Support for DNA computing
+#### LEGAL
+<small>
+™ NBRunner is a trademark of Abhishek Choudhary<br>
+® AyeAI is a registered trademark of Abhishek Choudhary <br>
+All trademarks are acknowledged as belonging to their respective owners.
+</small>
 
