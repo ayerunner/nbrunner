@@ -1,4 +1,4 @@
-# __<font color="orange">NB</font><font color="green">Runner</font>__™ by [<font color="red">*Aye</font><font color="green">AI*</font>](https://ayeai.xyz)<small>®</small>
+# <font color="orange">NB</font><font color="green">Runner</font>™ by [<font color="red">*Aye</font><font color="green">AI*</font>](https://ayeai.xyz)<small>®</small>
 <small>(C) Copyright 2021 Abhishek Choudhary<br>
 AyeSPL license. No Warranty No Liability.</small>
 
