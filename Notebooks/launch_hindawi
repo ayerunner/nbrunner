@@ -1,7 +1,0 @@
-#(C) Copyright 2020 Abhishek Choudhary, Dr Srija Katta
-Distributed under GNU GPL V2 License only
-No Warranty, Zero Liability
-
-docker rm hindawi
-docker pull ayeai/hindawi
-docker run -v $(pwd):/home/hindawi/work -p 80:80 -p 8888:8888 --name hindawi -u hindawi -w /home/hindawi/hindawi2020/Notebooks/ -it ayeai/hindawi bash -c "jupyter-notebook --no-browser --ip=0.0.0.0 --port=8888 --NotebookApp.password='' --NotebookApp.token=''"
