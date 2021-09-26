@@ -6,7 +6,7 @@ AyeSPL license. No Warranty No Liability.</small>
 [![Open In Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ayerunner/nbrunner/master/?filepath=Notebooks/NBRunner.ipynb)
 
 
-### **NBRunner** by *AyeAI* is a notebook utility that helps you generate buttons to launch notebooks stored in git repositories. There are additional options to generate QR code launchers and social share buttons.
+### **NBRunner** by <font color="red">*Aye</font><font color="green">AI*</font> is a notebook utility that helps you generate buttons to launch notebooks stored in git repositories. There are additional options to generate QR code launchers and social share buttons.
 
 #### LEGAL
 <small>
